@@ -1,4 +1,6 @@
 print("hello world")
+print("dzw")
+print("asd")
 print("sjy")
 print("wangshuo")
 print("qwe")
